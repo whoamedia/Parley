@@ -1,5 +1,5 @@
 {
-    "name": "srlabs/parley",
+    "name": "whoamedia/Parley",
     "description": "Polymorphic Messaging for Laravel",
     "keywords": ["laravel", "notifications", "messaging", "polymorphic", "polymorphism"],
     "license": "MIT",
