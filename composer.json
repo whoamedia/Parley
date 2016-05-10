@@ -11,10 +11,10 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "illuminate/support": "5.1.*@dev",
-        "illuminate/contracts": "5.1.*@dev",
-        "illuminate/database": "5.1.*@dev",
-        "illuminate/events": "5.1.*@dev"
+        "illuminate/support": "5.2.*@dev",
+        "illuminate/contracts": "5.2.*@dev",
+        "illuminate/database": "5.2.*@dev",
+        "illuminate/events": "5.2.*@dev"
     },
     "require-dev": {
         "orchestra/testbench": "3.1.*",
